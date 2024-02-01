@@ -375,7 +375,7 @@ header {
 	font-weight: 700;
 	line-height: 1.5;
 }
-.banner .caption h6 {
+.banner .caption h5 {
 	font-weight: 700;
 }
 .banner a {
@@ -384,7 +384,7 @@ header {
 	text-transform: uppercase;
 	font-size: 20px;
 	color: #fff;
-	padding: 6px 20px;
+	padding: 6px 50px;
 	letter-spacing: 0.5px;
 	transition: all 0.5s;
 	margin-top: 25px;
@@ -582,7 +582,7 @@ footer .sub-footer {
 	.navbar .navbar-brand h2{
 		font-size: 20px;
 	}
-	.banner .caption h6{
-		font-size: 0.8rem;
+	.banner .caption h5 {
+		font-size: 1rem;
 	}
 }

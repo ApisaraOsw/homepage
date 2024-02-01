@@ -78,8 +78,8 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
         <div class="row justify-content-center">
           <div class="col-md-9">
             <div class="header-text caption">
-              <h2>โครงการการพัฒนารูปแบบความร่วมมือในการดูแลสุขภาพจิตแบบสื่อสารทางไกล<br/>สำหรับผู้สูงอายุในภาวะโรคระบาดโควิด-19</h2>
-              <h6>THE DEVELOPMENT OF THE COLLABORATIVE TELEMENTAL HEALTH CARE MODEL FOR OLDER ADULTS DURING COVID-19 PANDEMIC</h6>
+              <h2>โครงการการพัฒนารูปแบบความร่วมมือในการดูแลสุขภาพจิตแบบสื่อสารทางไกล</h2>
+              <h6>THE DEVELOPMENT OF THE COLLABORATIVE TELEMENTAL HEALTH CARE MODEL</h6>
               <a class="btn" href="my/index.php">เข้าเรียน</a>
             </div>
           </div>
@@ -117,7 +117,7 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
         <div class="row justify-content-center text-center">
           <div class="col-md-12">
             <h4>ABC Partners</h4>
-            <p class="mb-3">หน่วยงานที่ร่วมพัฒนาโครงการการพัฒนารูปแบบความร่วมมือในการดูแลสุขภาพจิตแบบสื่อสารทางไกลสำหรับผู้สูงอายุในภาวะโรคระบาดโควิด-19</p>
+            <p class="mb-3">หน่วยงานที่ร่วมพัฒนาโครงการการพัฒนารูปแบบความร่วมมือในการดูแลสุขภาพจิตแบบสื่อสารทางไกล</p>
           </div>
           <div class="col-md-2 col-sm-6 col-xs-12">
             <div class="partners-item">
@@ -140,9 +140,7 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
         <div class="row">
           <div class="col-md-12">
             <div class="sub-footer">
-              <p><span class="font-weight-bold">The development of the collaborative telemental health care model for older adults during covid-19 pandemic</span></br>
-                  ABC Campus</br>
-                  Copyright &copy; 2023</p>
+              <p><span class="font-weight-bold">ABC Campus</span></br>Copyright &copy; 2023</p>
             </div>
           </div>
         </div>
