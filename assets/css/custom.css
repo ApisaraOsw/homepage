@@ -398,8 +398,8 @@ header {
 
 /* Services Style */
 .services-section {
-	margin-top: 40px;
-	margin-bottom: 40px;
+	margin-top: 50px;
+	margin-bottom: 50px;
 }
 .services-section .section-heading h2 {
 	color: #1e1e1e;
@@ -441,6 +441,22 @@ header {
 }
 .services-section .img-block{
 	border-radius: 0.5rem;
+}
+
+/* Partners Style */
+.partners-section {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.partners-section h4 {
+	font-size: 19px;
+	color: #1e1e1e;
+	text-transform: capitalize;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+}
+.partners-section img {
+	max-width: 150px;
 }
 
 /* Footer Style */

@@ -11,7 +11,7 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
     <meta name="description" content="">
     <meta name="author" content="TemplateMo">
 
-    <title>IQ OVER 103</title>
+    <title>ABC OVER</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +28,7 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.php"><h2>IQ OVER 103</h2></a>
+          <a class="navbar-brand" href="index.php"><h2>ABC OVER</h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -110,6 +110,29 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
       </div>
     </div>
     <!-- Services Ends Here -->
+
+    <!-- Partners Starts Here -->
+     <div class="partners-section">
+      <div class="container">
+        <div class="row justify-content-center text-center">
+          <div class="col-md-12">
+            <h4>ABC Partners</h4>
+            <p class="mb-3">หน่วยงานที่ร่วมพัฒนาโครงการการพัฒนารูปแบบความร่วมมือในการดูแลสุขภาพจิตแบบสื่อสารทางไกลสำหรับผู้สูงอายุในภาวะโรคระบาดโควิด-19</p>
+          </div>
+          <div class="col-md-2 col-sm-6 col-xs-12">
+            <div class="partners-item">
+              <img class="w-100" src="assets/images/logo-k10.jpg"/>
+            </div>
+          </div>
+          <div class="col-md-2 col-sm-6 col-xs-12">
+            <div class="partners-item">
+              <img class="w-100" src="assets/images/logo-md.jpg"/>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Partners Ends Here -->
 
     <!-- Footer Starts Here -->
     <footer>
