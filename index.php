@@ -40,13 +40,13 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://sites.google.com/view/iqover103/about" target="_blank">ข้อมูลโครงการ</a>
+                <a class="nav-link" href="#" target="_blank">ข้อมูลโครงการ</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://sites.google.com/view/iqover103/overview" target="_blank">หลักสูตร</a>
+                <a class="nav-link" href="#" target="_blank">หลักสูตร</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="https://sites.google.com/view/iqover103/contact" target="_blank">ติดต่อสอบถาม</a>
+                <a class="nav-link" href="#" target="_blank">ติดต่อสอบถาม</a>
               </li>
             </ul>
           </div>
@@ -96,14 +96,14 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
             <div class="service-item">
               <h4>หลักสูตร  1 สำหรับครูปฐมวัย และผู้ดูแลเด็ก</h4>
               <img class="w-100 img-block" src="assets/images/block1.jpg"/>
-              <p class="pt-3 text-right"><a href="https://sites.google.com/view/iqover103/overview" target="_blank">รายละเอียดเพิ่มเติม...</a></p>
+              <p class="pt-3 text-right"><a href="#" target="_blank">รายละเอียดเพิ่มเติม...</a></p>
             </div>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
             <div class="service-item">
               <h4>หลักสูตร 2 สำหรับพ่อแม่ผู้ปกครองเด็กปฐมวัย</h4>
               <img class="w-100 img-block" src="assets/images/block2.jpg"/>
-              <p class="pt-3 text-right"><a href="https://sites.google.com/view/iqover103/overview" target="_blank">รายละเอียดเพิ่มเติม...</a></p>
+              <p class="pt-3 text-right"><a href="#" target="_blank">รายละเอียดเพิ่มเติม...</a></p>
             </div>
           </div>
         </div>
@@ -118,8 +118,8 @@ require_once('config.php'); //this assumes your php file is in a subdirectory of
           <div class="col-md-12">
             <div class="sub-footer">
               <p><span class="font-weight-bold">The development of the collaborative telemental health care model for older adults during covid-19 pandemic</span></br>
-                  Mahidol University Amnatcharoen Campus</br>
-                  iqover103.net, Copyright &copy; 2023</p>
+                  ABC Campus</br>
+                  Copyright &copy; 2023</p>
             </div>
           </div>
         </div>
